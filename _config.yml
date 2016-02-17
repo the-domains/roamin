@@ -1,0 +1,28 @@
+name: roamin
+favicon: null
+layout_spectrum: 0.8384487491566688
+typography_spectrum: 0.8989078949671239
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7469243253581226
+  lightness: 0.6782190485391766
+  saturation: 0.09203309402801096
+  rhythmicContrast: 0.7757718276698142
+purpose: []
