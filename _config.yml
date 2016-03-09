@@ -1,7 +1,7 @@
 name: roamin
 favicon: null
-layout_spectrum: 0.5033
-typography_spectrum: 0.68065
+layout_spectrum: 0.93294
+typography_spectrum: 0.87287
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#2f2e2c'
     - '#e5e4e0'
     - '#676767'
-  brandStrength: 0.690315
+  brandStrength: 0.75
   lightness: 0.754504
   saturation: 0.203828
-  rhythmicContrast: 0.75
+  rhythmicContrast: 1
 purpose: []
