@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[roamin]]></title>
         <description><![CDATA[roamin]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/roamin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 02:27:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 04:00:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/roamin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Brilliant Rock Mashup That Uses a Mock Facebook Timeline to Feature and Combine Each Band]]></title>
+            <description><![CDATA[<article><h1>A Brilliant Rock Mashup That Uses a Mock Facebook Timeline to Feature and Combine Each Band</h1><p>Ithaca Audio created an incredibly brilliant 15-minute mashup that tells the pretty comprehensive "History of Rock" via a mock Facebook timeline in which clips of the bands were featured and where quotes from other rockstars were submitted as comments and likes.</p><img src="http://laughingsquid.com/wp-content/uploads/2016/03/a-brilliant-rock-mashup-that-use.jpg?w=1200"></article>]]></description>
+            <link>http://feeds.laughingsquid.com/~r/laughingsquid/~3/UhMI34ML5ec/</link>
+            <guid isPermaLink="false">fcdea265-a59e-4a33-aba7-5906bc0fdba9</guid>
+            <pubDate>Wed, 09 Mar 2016 03:59:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to Give Your Room a Cyberpunk Design Makeover]]></title>
-            <description><![CDATA[<article><h1>How to Give Your Room a Cyberpunk Design Makeover</h1><p>Cyberpunk is no longer fiction. It is our reality. And DIY is its first name. If you don't know about the cyberpunk genre of science fiction, I cannot tell you what it is, because that is the stuff of Internet holy wars. Search out authors like Philip K.</p><img src="http://cdn.makeuseof.com/wp-content/uploads/2016/03/room-cyberpunk-994x400.jpg?0c4e2d"></article>]]></description>
+            <description><![CDATA[<article><h1>How to Give Your Room a Cyberpunk Design Makeover</h1><p>Cyberpunk is no longer fiction. It is our reality. And DIY is its first name. If you don't know about the cyberpunk genre of science fiction, I cannot tell you what it is, because that is the stuff of Internet holy wars. Search out authors like Philip K.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b24c765a4cc200d67d7572149083b8551a3d9383.jpg"></article>]]></description>
             <link>http://www.makeuseof.com/tag/give-room-cyberpunk-design-makeover/</link>
             <guid isPermaLink="false">f1fd04d0-40de-4091-bb6a-8c9de22d6da9</guid>
             <pubDate>Wed, 09 Mar 2016 02:25:51 GMT</pubDate>
