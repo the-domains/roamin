@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[roamin]]></title>
+        <description><![CDATA[roamin]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Mar 2016 02:27:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Give Your Room a Cyberpunk Design Makeover]]></title>
+            <description><![CDATA[<article><h1>How to Give Your Room a Cyberpunk Design Makeover</h1><p>Cyberpunk is no longer fiction. It is our reality. And DIY is its first name. If you don't know about the cyberpunk genre of science fiction, I cannot tell you what it is, because that is the stuff of Internet holy wars. Search out authors like Philip K.</p><img src="http://cdn.makeuseof.com/wp-content/uploads/2016/03/room-cyberpunk-994x400.jpg?0c4e2d"></article>]]></description>
+            <link>http://www.makeuseof.com/tag/give-room-cyberpunk-design-makeover/</link>
+            <guid isPermaLink="false">f1fd04d0-40de-4091-bb6a-8c9de22d6da9</guid>
+            <pubDate>Wed, 09 Mar 2016 02:25:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
