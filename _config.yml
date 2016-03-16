@@ -1,40 +1,18 @@
-layout_spectrum: 1
-favicon: null
-name: roamin
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-collections:
-  - index:
-      navigable: true
-      path: /
-      number: 15
-      paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  version: null
-  bucket: null
-  domain: null
+analytics: {}
 color:
-  brandStrength: 0.8125
-  saturation: 0.25
   brandColors:
     - '#000000'
     - '#a2a2a2'
     - '#2f2e2c'
     - '#e5e4e0'
     - '#676767'
+  brandStrength: 0.8125
   lightness: 0.25
   rhythmicContrast: 0.25
+  saturation: 0.25
+cta: {}
+layout_spectrum: 0.033783
+name: roamin
+opengraph: {}
+purpose: []
 typography_spectrum: 0.6572682
