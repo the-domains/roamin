@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/158209161'
+inLanguage: null
+starred: false
+keywords: []
+description: 'Rotoscoping assignment for 2D Animation course 60429 CMU School of art animation.molleindustria.org/ Based on a Eadweard Muybridge plate. Music by Mouse on Mars http://www.mouseonmars.com/niun-niggung/'
+datePublished: '2016-03-18T04:38:00.479Z'
+dateModified: '2016-03-18T04:37:38.280Z'
 author:
   - name: 2D Animation CMU
     url: 'http://vimeo.com/user10472637'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: 'Rotoscoping assignment for 2D Animation course 60429 CMU School of art animation.molleindustria.org/ Based on a Eadweard Muybridge plate. Music by Mouse on Mars http://www.mouseonmars.com/niun-niggung/'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/158209161'
     type: ios
@@ -38,15 +41,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/158209161'
 title: Rotoscoped horse
-datePublished: '2016-03-17T12:58:08.768Z'
-dateModified: '2016-03-09T02:24:46.686Z'
 sourcePath: _posts/2016-03-17-rotoscoped-horse.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
