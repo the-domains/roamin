@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '#detroitlabels #rarenorthernsoul #vinyl #45rpm'
-datePublished: '2016-04-09T00:39:37.189Z'
-dateModified: '2016-04-09T00:39:18.725Z'
+datePublished: '2016-04-09T06:20:51.948Z'
+dateModified: '2016-04-09T06:20:48.484Z'
 author: []
 title: Vintage 45rpm Eye Candy
 sourcePath: _posts/2016-04-09-vintage-45rpm-eye-candy.md
@@ -23,8 +23,8 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-<article style=""><h1>Detroit Labels, Rare Northern Soul, Vinyl, 45RPM</h1><p>Complete 45RPM listings of the Motown family of labels</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b38b57c4001063bae63f2ec21975e1dd428ed48.gif" /></article>
-
 # Vintage 45rpm Eye Candy
+
+<article style=""><h1>Detroit Labels, Rare Northern Soul, Vinyl, 45RPM</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b38b57c4001063bae63f2ec21975e1dd428ed48.gif" /></article>
 
 \#detroitlabels \#rarenorthernsoul \#vinyl \#45rpm
