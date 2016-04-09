@@ -1,7 +1,7 @@
 name: roamin
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.87154
+layout_spectrum: 0.23055
+typography_spectrum: 0.2698
 title: current test site / possible future landing or navigation site
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#d60000'
-    - '#ffffff'
-    - '#e4bb99'
-    - '#897162'
-  brandStrength: 0.25
-  lightness: 0.1875
-  saturation: 0.75
-  rhythmicContrast: 1
+    - '#fefcff'
+    - '#a60c02'
+    - '#969195'
+    - '#dd5954'
+    - '#e88f92'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
