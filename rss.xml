@@ -4,7 +4,7 @@
         <description><![CDATA[current test site. future about page.]]></description>
         <link>https://thegrid.ai/roamin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 01:02:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 06:06:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/roamin/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Betype - Typography & Lettering Inspiration]]></title>
@@ -12,6 +12,12 @@
             <link>http://betype.co/post/140062574090</link>
             <guid isPermaLink="false">85b07253-a5f2-497f-8887-1ef748e5da0f</guid>
             <pubDate>Thu, 17 Mar 2016 12:59:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/roamin/304bad0f-d09f-4c0b-b1c1-019cf0e049de/index.html</link>
+            <guid isPermaLink="false">304bad0f-d09f-4c0b-b1c1-019cf0e049de</guid>
+            <pubDate>Sun, 10 Apr 2016 06:05:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BIALUMA -- VESSEL]]></title>
@@ -68,13 +74,6 @@
             <link>http://feedproxy.google.com/~r/OpenCulture/~3/AoktPNyd3Ws/scientists-discover-that-james-joyces-finnegans-wake-has-an-amazingly-mathematical-multifractal-structure.html</link>
             <guid isPermaLink="false">36850672-78b4-4bd7-a39b-e2d19ef47367</guid>
             <pubDate>Wed, 16 Mar 2016 16:52:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Brilliant Rock Mashup That Uses a Mock Facebook Timeline to Feature and Combine Each Band]]></title>
-            <description><![CDATA[<article><h1>A Brilliant Rock Mashup That Uses a Mock Facebook Timeline to Feature and Combine Each Band</h1><p>Ithaca Audio created an incredibly brilliant 15-minute mashup that tells the pretty comprehensive "History of Rock" via a mock Facebook timeline in which clips of the bands were featured and where quotes from other rockstars were submitted as comments and likes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4134a3cb08d345982122688444917f884f1aab7.jpg"></article>]]></description>
-            <link>http://feeds.laughingsquid.com/~r/laughingsquid/~3/UhMI34ML5ec/</link>
-            <guid isPermaLink="false">fcdea265-a59e-4a33-aba7-5906bc0fdba9</guid>
-            <pubDate>Wed, 09 Mar 2016 03:59:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
