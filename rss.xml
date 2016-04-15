@@ -4,7 +4,7 @@
         <description><![CDATA[current test site. future about page.]]></description>
         <link>https://thegrid.ai/roamin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 05:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 02:53:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/roamin/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Betype - Typography & Lettering Inspiration]]></title>
@@ -12,6 +12,13 @@
             <link>http://betype.co/post/140062574090</link>
             <guid isPermaLink="false">85b07253-a5f2-497f-8887-1ef748e5da0f</guid>
             <pubDate>Thu, 17 Mar 2016 12:59:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NASA's Golden Age of Design Chronicled in Reissued Standards Manual]]></title>
+            <description><![CDATA[<article><h1>NASA's Golden Age of Design Chronicled in Reissued Standards Manual</h1><p>Last year, two graphic designers launched a wildly successful Kickstarter campaign to bring back the 1974 NASA Graphics Standards Manual as a hard cover book. Now, they're releasing the book to the public.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7afa8a66ece2119031cad2b4e1c4c9454a3cf1cb.jpg"></article>]]></description>
+            <link>http://www.curbed.com/2016/4/12/11395476/nasa-design-standards-manual-graphic-design</link>
+            <guid isPermaLink="false">c87fc8eb-d16d-43ce-8f03-44ff24080bec</guid>
+            <pubDate>Fri, 15 Apr 2016 02:52:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Impossible Project Created a Brand New Camera For Its Resurrected Polaroid Film]]></title>
@@ -67,13 +74,6 @@
             <link>urn:uuid:675fe91b-d55d-45d5-acda-a3991ccc505a</link>
             <guid isPermaLink="false">d58effdf-67a2-44b1-a394-955508e8fc8b</guid>
             <pubDate>Fri, 18 Mar 2016 07:21:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rotoscoped horse]]></title>
-            <description><![CDATA[<article><h1>Rotoscoped horse</h1><p>Rotoscoping assignment for 2D Animation course 60429 CMU School of art animation.molleindustria.org/ Based on a Eadweard Muybridge plate. Music by Mouse on Mars http://www.mouseonmars.com/niun-niggung/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff2646e2cb28b8809158d339dabbe4de3be6b68e.jpg"></article>]]></description>
-            <link>https://vimeo.com/158209161</link>
-            <guid isPermaLink="false">2d41e672-62e3-4acd-a80b-a2eed169ce54</guid>
-            <pubDate>Fri, 18 Mar 2016 04:38:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
