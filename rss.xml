@@ -4,7 +4,7 @@
         <description><![CDATA[current test site. future about page?]]></description>
         <link>https://thegrid.ai/roamin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 11:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 22:24:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/roamin/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Betype - Typography & Lettering Inspiration]]></title>
@@ -12,6 +12,13 @@
             <link>http://betype.co/post/140062574090</link>
             <guid isPermaLink="false">85b07253-a5f2-497f-8887-1ef748e5da0f</guid>
             <pubDate>Thu, 17 Mar 2016 12:59:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MI Guitar]]></title>
+            <description><![CDATA[<article><h1>MI Guitar</h1><p>While it might look more like a guitar from a video game, the MI Guitar is the real deal, allowing you to play and even make music, without the work required by traditional methods. With MI Guitar, you can pick...</p><img src="http://uncrate.com/p/2016/04/mi-guitar.jpg"></article>]]></description>
+            <link>http://uncrate.com/stuff/mi-guitar/</link>
+            <guid isPermaLink="false">be409bb3-f614-4b8f-9417-0b665f2e81cb</guid>
+            <pubDate>Wed, 20 Apr 2016 22:24:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <link>https://soundcloud.com/factmag/a-otto-lindholm-nilindigo</link>
             <guid isPermaLink="false">c058e0b1-e58e-4ac4-945f-b77e71de9170</guid>
             <pubDate>Mon, 21 Mar 2016 04:13:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to the Anthropocene]]></title>
-            <description><![CDATA[<article><h1>Welcome to the Anthropocene</h1><p>In June 2012, "Welcome to the Anthropocene"-a film about the state of the planet-opened the UN's Rio+20 summit on sustainable development. The summit was the largest UN meeting to date. A 3-minute journey through the last 250 years of our history, from the start of the Industrial Revolution to the Rio+20 Summit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ccb3ac082a89465a08a7d1d85b5f03e57fcc5b1.jpg"></article>]]></description>
-            <link>https://vimeo.com/39048998</link>
-            <guid isPermaLink="false">3cfaf57c-77a2-4bda-853f-2966d927dce5</guid>
-            <pubDate>Sun, 20 Mar 2016 02:51:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
