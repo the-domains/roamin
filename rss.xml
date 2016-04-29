@@ -4,7 +4,7 @@
         <description><![CDATA[current test site. future about page?]]></description>
         <link>https://thegrid.ai/roamin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 22:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 23:23:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/roamin/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Betype - Typography & Lettering Inspiration]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 17 Mar 2016 12:59:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Illustrator Spotlight: Tomer Hanuka]]></title>
+            <description><![CDATA[<article><h1>Illustrator Spotlight: Tomer Hanuka</h1><p>A selection of work by New York-based illustrator Tomer Hanuka. More images below. Tomer Hanuka's Website</p><img src="http://www.booooooom.com/wp-content/uploads/2016/04/tomer-hanuka07.jpg"></article>]]></description>
+            <link>http://www.booooooom.com/2016/04/29/illustrator-spotlight-tomer-hanuka/</link>
+            <guid isPermaLink="false">6ac7e724-c541-471a-8fe9-1af1af3dedfd</guid>
+            <pubDate>Fri, 29 Apr 2016 23:22:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[MI Guitar]]></title>
-            <description><![CDATA[<article><h1>MI Guitar</h1><p>While it might look more like a guitar from a video game, the MI Guitar is the real deal, allowing you to play and even make music, without the work required by traditional methods. With MI Guitar, you can pick...</p><img src="http://uncrate.com/p/2016/04/mi-guitar.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>MI Guitar</h1><p>While it might look more like a guitar from a video game, the MI Guitar is the real deal, allowing you to play and even make music, without the work required by traditional methods. With MI Guitar, you can pick...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aca61577b2ee38075deb3f9212ea91e4dc7f9be0.jpg"></article>]]></description>
             <link>http://uncrate.com/stuff/mi-guitar/</link>
             <guid isPermaLink="false">be409bb3-f614-4b8f-9417-0b665f2e81cb</guid>
             <pubDate>Wed, 20 Apr 2016 22:24:19 GMT</pubDate>
@@ -67,13 +74,6 @@
             <link>http://qz.com/638660/an-indie-digital-music-startup-tried-to-fight-the-streaming-behemoths-guess-who-won/</link>
             <guid isPermaLink="false">b7706593-a659-4c2e-bbd9-1864dc649afc</guid>
             <pubDate>Sat, 09 Apr 2016 23:41:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A. Otto Lindholm - Nilindigo by FACT]]></title>
-            <description><![CDATA[<article><h1>A. Otto Lindholm - Nilindigo by FACT</h1><p>The UK's best online music magazine and home to the weekly FACT mix series and FACT TV.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ebec328c501cfeb47f2f25cf66428d1f7ff6244.jpg"></article>]]></description>
-            <link>https://soundcloud.com/factmag/a-otto-lindholm-nilindigo</link>
-            <guid isPermaLink="false">c058e0b1-e58e-4ac4-945f-b77e71de9170</guid>
-            <pubDate>Mon, 21 Mar 2016 04:13:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
