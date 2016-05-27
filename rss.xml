@@ -4,7 +4,7 @@
         <description><![CDATA[current test site. future about page?]]></description>
         <link>https://thegrid.ai/roamin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 23:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 23:39:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/roamin/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Betype - Typography & Lettering Inspiration]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 17 Mar 2016 12:59:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[100 YEARS OF BMW]]></title>
+            <description><![CDATA[<article><h1>100 YEARS OF BMW</h1><p>All BMW Models Illustrated.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5279c4cf63d506bc103dc237deee0812876625b9.png"></article>]]></description>
+            <link>http://feedproxy.google.com/~r/behance/vorr/~3/z1csCO00608/100-YEARS-OF-BMW</link>
+            <guid isPermaLink="false">4e15fe81-ed16-49eb-99b5-665f99a4cc02</guid>
+            <pubDate>Fri, 27 May 2016 23:39:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Illustrator Spotlight: Tomer Hanuka]]></title>
-            <description><![CDATA[<article><h1>Illustrator Spotlight: Tomer Hanuka</h1><p>A selection of work by New York-based illustrator Tomer Hanuka. More images below. Tomer Hanuka's Website</p><img src="http://www.booooooom.com/wp-content/uploads/2016/04/tomer-hanuka07.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Illustrator Spotlight: Tomer Hanuka</h1><p>A selection of work by New York-based illustrator Tomer Hanuka. More images below. Tomer Hanuka's Website</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d93c9dc66c12b3bc23254954c84c45e59974fa25.jpg"></article>]]></description>
             <link>http://www.booooooom.com/2016/04/29/illustrator-spotlight-tomer-hanuka/</link>
             <guid isPermaLink="false">6ac7e724-c541-471a-8fe9-1af1af3dedfd</guid>
             <pubDate>Fri, 29 Apr 2016 23:22:52 GMT</pubDate>
@@ -57,6 +64,7 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>“These desks & tables by Industrial Facility,” said Dezeen Magazine. These desks & tables…</p>]]></description>
             <link>https://thegrid.ai/roamin/304bad0f-d09f-4c0b-b1c1-019cf0e049de/index.html</link>
             <guid isPermaLink="false">304bad0f-d09f-4c0b-b1c1-019cf0e049de</guid>
             <pubDate>Sun, 10 Apr 2016 06:05:48 GMT</pubDate>
@@ -67,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=R0w_a_krKHg&amp;feature=youtu.be</link>
             <guid isPermaLink="false">e0805fc3-21b1-4358-9be8-4e41c9ec98af</guid>
             <pubDate>Sun, 10 Apr 2016 01:01:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An indie digital music startup tried to fight the streaming behemoths. Guess who won?]]></title>
-            <description><![CDATA[<article><h1>An indie digital music startup tried to fight the streaming behemoths. Guess who won?</h1><p>"One good thing about music," goes Bob Marley's famous, gentle croon, "when it hits you, you feel no pain." But in the business of music right now, pain is likely the only thing being felt. Big streaming services like Spotify and Apple Music are doing all right-the former because of its position as the staunch industry leader, the latter because...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5b2aaa85d765ba11e59bfca759e36b97c7f6d89.jpg"></article>]]></description>
-            <link>http://qz.com/638660/an-indie-digital-music-startup-tried-to-fight-the-streaming-behemoths-guess-who-won/</link>
-            <guid isPermaLink="false">b7706593-a659-4c2e-bbd9-1864dc649afc</guid>
-            <pubDate>Sat, 09 Apr 2016 23:41:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
