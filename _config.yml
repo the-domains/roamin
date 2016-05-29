@@ -1,6 +1,6 @@
 name: roamin
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.13665
 typography_spectrum: 0.28437
 title: current test site. future about page?
 cta:
@@ -23,7 +23,7 @@ color:
     - '#dd5954'
     - '#e88f92'
   brandStrength: 1
-  lightness: 0.5
+  lightness: 0.9375
   saturation: 0
   rhythmicContrast: 1
 purpose: []
