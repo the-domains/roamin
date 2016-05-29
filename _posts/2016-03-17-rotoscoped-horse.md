@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://vimeo.com/158209161'
 inLanguage: null
 keywords: []
 description: 'Rotoscoping assignment for 2D Animation course 60429 CMU School of art animation.molleindustria.org/ Based on a Eadweard Muybridge plate. Music by Mouse on Mars http://www.mouseonmars.com/niun-niggung/'
-datePublished: '2016-05-29T02:11:10.983Z'
-dateModified: '2016-05-29T02:10:13.435Z'
+datePublished: '2016-05-29T02:18:47.144Z'
+dateModified: '2016-05-29T02:17:50.659Z'
 author:
   - name: 2D Animation CMU
     url: 'http://vimeo.com/user10472637'
