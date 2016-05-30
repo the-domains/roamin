@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://vimeo.com/161456002'
 inLanguage: null
 keywords: []
 description: 'This is "A long meditation on airports (no fire/fire)" by on Vimeo, the home for high quality videos and the people who love them.'
-datePublished: '2016-05-30T20:45:37.427Z'
-dateModified: '2016-05-30T20:45:28.063Z'
+datePublished: '2016-05-30T20:50:08.568Z'
+dateModified: '2016-05-30T20:49:52.663Z'
 author:
   - name: Kate Carr
     url: 'http://vimeo.com/user24319069'
