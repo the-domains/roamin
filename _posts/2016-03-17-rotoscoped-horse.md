@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://vimeo.com/158209161'
 inLanguage: null
 keywords: []
 description: Rotoscoped Horse
-datePublished: '2016-08-01T23:46:20.276Z'
-dateModified: '2016-08-01T23:46:07.887Z'
+datePublished: '2016-08-01T23:48:09.236Z'
+dateModified: '2016-08-01T23:47:43.110Z'
 author:
   - name: 2D Animation CMU
     url: 'http://vimeo.com/user10472637'
@@ -49,7 +49,7 @@ publisher:
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 via: {}
-starred: true
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
