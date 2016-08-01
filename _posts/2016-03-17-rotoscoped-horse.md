@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://vimeo.com/158209161'
 inLanguage: null
 keywords: []
 description: Rotoscoped Horse
-datePublished: '2016-08-01T23:48:09.236Z'
-dateModified: '2016-08-01T23:47:43.110Z'
+datePublished: '2016-08-01T23:50:12.607Z'
+dateModified: '2016-08-01T23:49:54.995Z'
 author:
   - name: 2D Animation CMU
     url: 'http://vimeo.com/user10472637'
@@ -54,6 +54,6 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-Rotoscoped Horse
+**Rotoscoped Horse**
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F158209161&amp;url=https%3A%2F%2Fvimeo.com%2F158209161&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F559669978_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
