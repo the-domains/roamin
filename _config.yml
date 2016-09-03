@@ -1,4 +1,6 @@
 typography_spectrum: 0.94629
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#dbd9dc'
@@ -25,6 +27,6 @@ cta:
   bucket: null
   version: null
 favicon: null
-title: current test site. future about page?
+title: future nav/about page
 description: who knows?
 purpose: []
