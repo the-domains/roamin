@@ -48,6 +48,9 @@ navigation:
   - name: /Favourites
     url: 'https://slashfavorites.com/#roamin'
     type: external
+  - name: Listen L8er
+    url: 'https://8tracks.com/users/roamin/collections'
+    type: external
 favicon: null
 title: future nav/about page
 description: who knows?
