@@ -45,6 +45,9 @@ navigation:
   - name: Cymbal fm
     url: 'https://www.cymbal.fm/roamin'
     type: external
+  - name: /favourites
+    url: 'https://slashfavorites.com/#roamin'
+    type: external
 favicon: null
 title: future nav/about page
 description: who knows?
