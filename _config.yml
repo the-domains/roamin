@@ -26,6 +26,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: ROAMIN connected
+    url: 'https://portfolio.roamin.ca'
+    type: external
 favicon: null
 title: future nav/about page
 description: who knows?
