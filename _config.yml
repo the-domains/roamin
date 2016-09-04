@@ -30,7 +30,7 @@ navigation:
   - name: Elsewhere
     url: 'https://portfolio.roamin.ca'
     type: external
-  - name: twitter
+  - name: Twitter
     url: 'https://www.twitter.com/roamin'
     type: external
   - name: medium
