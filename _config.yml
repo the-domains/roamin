@@ -30,6 +30,9 @@ navigation:
   - name: ROAMIN connected
     url: 'https://portfolio.roamin.ca'
     type: external
+  - name: twitter
+    url: 'https://www.twitter.com/roamin'
+    type: external
 favicon: null
 title: future nav/about page
 description: who knows?
