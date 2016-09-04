@@ -42,7 +42,7 @@ navigation:
   - name: Mixcloud
     url: 'https://www.mixcloud.com/roamin/'
     type: external
-  - name: Cymbal fm
+  - name: Cymbal FM
     url: 'https://www.cymbal.fm/roamin'
     type: external
   - name: /Favourites
