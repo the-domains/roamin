@@ -27,32 +27,14 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Elsewhere
+  - name: ROAMIN
     url: 'https://portfolio.roamin.ca'
     type: external
-  - name: Twitter
+  - name: TWITTER
     url: 'https://www.twitter.com/roamin'
     type: external
-  - name: Medium
-    url: 'https://medium.com/@roamin'
-    type: external
-  - name: Last FM
-    url: 'https://www.last.fm/user/roamin'
-    type: external
-  - name: Mixcloud
-    url: 'https://www.mixcloud.com/roamin/'
-    type: external
-  - name: Cymbal FM
-    url: 'https://www.cymbal.fm/roamin'
-    type: external
-  - name: /Favourites
-    url: 'https://slashfavorites.com/#roamin'
-    type: external
-  - name: Listen Later
-    url: 'https://8tracks.com/users/roamin/collections'
-    type: external
-  - name: SoundCloud
-    url: 'https://soundcloud.com/roamin'
+  - name: This Was My Jam
+    url: 'https://www.thisismyjam.com/roamin'
     type: external
 favicon: null
 title: future nav/about page
