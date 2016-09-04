@@ -45,7 +45,7 @@ navigation:
   - name: Cymbal fm
     url: 'https://www.cymbal.fm/roamin'
     type: external
-  - name: /favourites
+  - name: /Favourites
     url: 'https://slashfavorites.com/#roamin'
     type: external
 favicon: null
