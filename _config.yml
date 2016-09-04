@@ -36,7 +36,7 @@ navigation:
   - name: Medium
     url: 'https://medium.com/@roamin'
     type: external
-  - name: Last fm
+  - name: Last FM
     url: 'https://www.last.fm/user/roamin'
     type: external
   - name: Mixcloud
