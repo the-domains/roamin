@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[current test site. future about page?]]></title>
-        <description><![CDATA[current test site. future about page?]]></description>
+        <title><![CDATA[future nav/about page]]></title>
+        <description><![CDATA[future nav/about page]]></description>
         <link>https://thegrid.ai/roamin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 03:07:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 15:28:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/roamin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>“These desks & tables by Industrial Facility,” said Dezeen Magazine. These desks & tables…</p>]]></description>
+            <link>https://thegrid.ai/roamin/304bad0f-d09f-4c0b-b1c1-019cf0e049de/index.html</link>
+            <guid isPermaLink="false">304bad0f-d09f-4c0b-b1c1-019cf0e049de</guid>
+            <pubDate>Thu, 01 Sep 2016 15:28:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rotoscoped Horse]]></title>
             <description><![CDATA[<article><h1>Rotoscoped Horse</h1><p>Rotoscoping assignment for 2D Animation course 60429 CMU School of art animation.molleindustria.org Based on a Eadweard Muybridge plate. Music by Mouse on Mars http://www.mouseonmars.com/niun-niggung/</p></article>]]></description>
@@ -61,13 +68,6 @@
             <link>https://www.nylas.com/N1/</link>
             <guid isPermaLink="false">df0a5d35-e42f-4813-820b-b55fa9dc70f3</guid>
             <pubDate>Mon, 11 Apr 2016 01:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>“These desks & tables by Industrial Facility,” said Dezeen Magazine. These desks & tables…</p>]]></description>
-            <link>https://thegrid.ai/roamin/304bad0f-d09f-4c0b-b1c1-019cf0e049de/index.html</link>
-            <guid isPermaLink="false">304bad0f-d09f-4c0b-b1c1-019cf0e049de</guid>
-            <pubDate>Sun, 10 Apr 2016 06:05:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
