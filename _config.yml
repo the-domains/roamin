@@ -27,7 +27,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: elsewhere
+  - name: Elsewhere
     url: 'https://portfolio.roamin.ca'
     type: external
   - name: twitter
