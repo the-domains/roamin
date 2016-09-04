@@ -36,6 +36,9 @@ navigation:
   - name: medium
     url: 'https://medium.com/@roamin'
     type: external
+  - name: last fm
+    url: 'https://www.last.fm/user/roamin'
+    type: external
 favicon: null
 title: future nav/about page
 description: who knows?
