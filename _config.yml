@@ -51,6 +51,9 @@ navigation:
   - name: Listen Later
     url: 'https://8tracks.com/users/roamin/collections'
     type: external
+  - name: SoundCloud
+    url: 'https://soundcloud.com/roamin'
+    type: external
 favicon: null
 title: future nav/about page
 description: who knows?
