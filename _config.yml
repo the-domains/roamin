@@ -33,6 +33,9 @@ navigation:
   - name: twitter
     url: 'https://www.twitter.com/roamin'
     type: external
+  - name: medium
+    url: 'https://medium.com/@roamin'
+    type: external
 favicon: null
 title: future nav/about page
 description: who knows?
