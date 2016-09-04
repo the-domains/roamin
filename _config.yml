@@ -30,7 +30,7 @@ navigation:
   - name: ROAMIN
     url: 'https://portfolio.roamin.ca'
     type: external
-  - name: twitter
+  - name: TWITTER
     url: 'https://www.twitter.com/roamin'
     type: external
 favicon: null
