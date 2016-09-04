@@ -36,7 +36,7 @@ navigation:
   - name: Medium
     url: 'https://medium.com/@roamin'
     type: external
-  - name: last fm
+  - name: Last fm
     url: 'https://www.last.fm/user/roamin'
     type: external
 favicon: null
