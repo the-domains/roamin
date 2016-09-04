@@ -39,6 +39,9 @@ navigation:
   - name: Last fm
     url: 'https://www.last.fm/user/roamin'
     type: external
+  - name: Mixcloud
+    url: 'https://www.mixcloud.com/roamin/'
+    type: external
 favicon: null
 title: future nav/about page
 description: who knows?
