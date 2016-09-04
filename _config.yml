@@ -33,7 +33,7 @@ navigation:
   - name: Twitter
     url: 'https://www.twitter.com/roamin'
     type: external
-  - name: medium
+  - name: Medium
     url: 'https://medium.com/@roamin'
     type: external
   - name: last fm
