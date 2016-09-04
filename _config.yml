@@ -33,7 +33,7 @@ navigation:
   - name: TWITTER
     url: 'https://www.twitter.com/roamin'
     type: external
-  - name: This Was My Jam
+  - name: This Was My Jam / Archived
     url: 'https://www.thisismyjam.com/roamin'
     type: external
 favicon: null
